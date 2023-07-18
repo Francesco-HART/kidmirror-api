@@ -1,0 +1,1 @@
+API for an interactive mirror application that will detect a child's inattention and emotions. All of this is developed independently from the API framework (Nest, Express, Fastify), utilizing test-driven development, a hexagonal architecture, and integration tests for the artificial intelligence part.
